@@ -1,0 +1,16 @@
+/* Google Font  */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+:root{
+    --h1-fontsize:4rem;
+}
+/* Basic Setting  */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+/* Basic Setting Ended  */
+/* HOME STYLING  */
